@@ -19,7 +19,13 @@
     </ProjectConfiguration>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Rotate String.cpp" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\containsDuplicate.c" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\dynamicMatrixAllocation.c" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\functionPointerBitwise.c" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\functionPointers.c" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\primeNumbers.c" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\qsort.c" />
+    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\xorSwapAlg.c" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>16.0</VCProjectVersion>
