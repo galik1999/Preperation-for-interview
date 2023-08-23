@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="unsignedCheck.cpp">
+    <ClCompile Include="Prime Number of Set Bits in Binary Representation.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
