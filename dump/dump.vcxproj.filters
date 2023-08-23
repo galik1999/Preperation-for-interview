@@ -15,25 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\containsDuplicate.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\dynamicMatrixAllocation.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\functionPointerBitwise.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\functionPointers.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\primeNumbers.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\qsort.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
-    <ClCompile Include="..\..\..\..\..\OneDrive\Desktop\C_Playground\xorSwapAlg.c">
+    <ClCompile Include="reverse linked list iterative.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

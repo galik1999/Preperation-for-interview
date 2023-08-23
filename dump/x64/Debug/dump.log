@@ -1,16 +1,2 @@
-﻿  containsDuplicate.c
-  dynamicMatrixAllocation.c
-  functionPointerBitwise.c
-  functionPointers.c
-  primeNumbers.c
-  qsort.c
-C:\Users\galmu\OneDrive\Desktop\C_Playground\qsort.c(12,11): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
-  xorSwapAlg.c
-  Generating Code...
-dynamicMatrixAllocation.obj : error LNK2005: main already defined in containsDuplicate.obj
-functionPointerBitwise.obj : error LNK2005: main already defined in containsDuplicate.obj
-functionPointers.obj : error LNK2005: main already defined in containsDuplicate.obj
-primeNumbers.obj : error LNK2005: main already defined in containsDuplicate.obj
-qsort.obj : error LNK2005: main already defined in containsDuplicate.obj
-xorSwapAlg.obj : error LNK2005: main already defined in containsDuplicate.obj
-C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe : fatal error LNK1169: one or more multiply defined symbols found
+﻿  reverse linked list iterative.cpp
+  dump.vcxproj -> C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe
