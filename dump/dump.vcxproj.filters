@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Prime Number of Set Bits in Binary Representation.cpp">
+    <ClCompile Include="Jewels and Stones.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
