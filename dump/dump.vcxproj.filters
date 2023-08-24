@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Longest Consecutive Sequence.cpp">
+    <ClCompile Include="Kth Largest Element in an Array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
