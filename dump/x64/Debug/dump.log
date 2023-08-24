@@ -1,2 +1,3 @@
-﻿  decode xored array.cpp
+﻿  Longest Consecutive Sequence.cpp
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Longest Consecutive Sequence.cpp(10,29): warning C4267: 'return': conversion from 'size_t' to 'int', possible loss of data
   dump.vcxproj -> C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe
