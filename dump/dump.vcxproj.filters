@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="reverse linked list iterative.cpp">
+    <ClCompile Include="decode xored array.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
