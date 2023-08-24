@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Repeated Substring Pattern.c">
+    <ClCompile Include="Can Place Flowers.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
