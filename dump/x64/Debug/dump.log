@@ -1,2 +1,4 @@
-﻿  Can Place Flowers.cpp
+﻿  Search in Rotated Sorted Array.c
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Search in Rotated Sorted Array.c(53,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Search in Rotated Sorted Array.c(53,12): message : consider using '%zd' in the format string
   dump.vcxproj -> C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe

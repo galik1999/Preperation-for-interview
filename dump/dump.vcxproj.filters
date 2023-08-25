@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Can Place Flowers.cpp">
+    <ClCompile Include="Search in Rotated Sorted Array.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
