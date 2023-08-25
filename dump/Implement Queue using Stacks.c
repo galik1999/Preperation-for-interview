@@ -11,7 +11,7 @@ typedef struct Stack {
     int size;
     Node* top;
 }Stack;
-
+ 
 
 typedef struct MyQueue {
     Stack* s1;
