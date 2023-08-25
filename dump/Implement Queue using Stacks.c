@@ -59,7 +59,6 @@ void myQueuePush(MyQueue* obj, int x) {
     newNode->val = x;
     newNode->next = NULL;
     push(&(obj->s1), newNode);
-    obj->size++;
 }
 
 void moveElements(Stack** dest, Stack** source) {
