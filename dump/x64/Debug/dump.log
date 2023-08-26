@@ -1,4 +1,4 @@
-﻿  Search in Rotated Sorted Array.c
-C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Search in Rotated Sorted Array.c(53,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
-C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Search in Rotated Sorted Array.c(53,12): message : consider using '%zd' in the format string
+﻿  variadic functions.c
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\variadic functions.c(24,9): warning C4101: 'i': unreferenced local variable
+  LINK : C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe not found or not built by the last incremental link; performing full link
   dump.vcxproj -> C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe

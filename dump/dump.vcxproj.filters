@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Search in Rotated Sorted Array.c">
+    <ClCompile Include="variadic functions.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
