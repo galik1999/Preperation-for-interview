@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="variadic functions.c">
+    <ClCompile Include="Keyboard Row.c">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

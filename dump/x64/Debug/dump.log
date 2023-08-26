@@ -1,4 +1,1 @@
-﻿  variadic functions.c
-C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\variadic functions.c(24,9): warning C4101: 'i': unreferenced local variable
-  LINK : C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe not found or not built by the last incremental link; performing full link
-  dump.vcxproj -> C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe
+﻿  dump.vcxproj -> C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe
