@@ -1,2 +1,7 @@
-﻿  readCode.cpp
+﻿  Reverse Words in a String.c
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Reverse Words in a String.c(27,19): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Reverse Words in a String.c(36,23): warning C4133: '=': incompatible types - from 'Node *' to 'Node *'
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Reverse Words in a String.c(103,36): warning C4090: 'function': different 'const' qualifiers
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Reverse Words in a String.c(105,12): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 1 has type 'size_t'
+C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\dump\Reverse Words in a String.c(105,12): message : consider using '%zd' in the format string
   dump.vcxproj -> C:\Users\galmu\source\repos\galik1999\Preperation-for-interview\x64\Debug\dump.exe
