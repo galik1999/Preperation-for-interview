@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="Keyboard Row.c">
+    <ClCompile Include="readCode.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
